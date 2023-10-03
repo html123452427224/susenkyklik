@@ -15,7 +15,7 @@
 .container {
   text-align: center;
   float: right;
-  margin-right: 25%;
+  margin-right: 250%;
   width: 50%;
   border-left: 1px solid black;
 }
@@ -26,7 +26,7 @@
 }
 
 #upgrade1 {
-  margin-left: 10px;
+  margin-left: 100px;
   display: inline-block;
 }
 
